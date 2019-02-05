@@ -1,2 +1,2 @@
-# PsychoBot
+# SnappleBot
 It says Snapple facts
