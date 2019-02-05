@@ -10,7 +10,7 @@ client.on('message', msg => {
  msg.reply('The chicken is the closest living relative of Tyrannosaurus rex');
  }
  });
-hi
+nword
 client.login('token');
 
 
